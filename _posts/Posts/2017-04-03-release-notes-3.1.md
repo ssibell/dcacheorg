@@ -169,33 +169,13 @@ A race condition in zookeeper caused irrelevant stacktraces to be logged on shut
 
 
 
-[a1aa2a9f55](https://github.com/dcache/dcache/commit/a1aa2a9f55a81b94e3c69bf351ff4da114c827c8)
-
-[maven-release-plugin] prepare release 3.1.11
-
-[ad5be09e65](https://github.com/dcache/dcache/commit/ad5be09e6577f78a586d508228e0a5c86483f79f)
-
-use correct terminology
-
-[d5fc3fc153](https://github.com/dcache/dcache/commit/d5fc3fc1539ce13f5d112beb23d79e4fd18481dd)
-
-fixed several typos in the documentation
-
-[fa30bd0e02](https://github.com/dcache/dcache/commit/fa30bd0e02bbe7c37c1b3e4e68345dad19aea2c1)
-
-added hint that pnfsmanagers must use the same DB
-
-[75413984e0](https://github.com/dcache/dcache/commit/75413984e0e5962d7911fab0fa7e8fcbbba86a01)
-
-srmclient: give version of srmclient
-
-[84f55fb998](https://github.com/dcache/dcache/commit/84f55fb9982e6486801b8878af7256f7a2c967ae)
-
-zookeeper: work-around race-condition in zookeeper server shutdown
-
-[35722dbac3](https://github.com/dcache/dcache/commit/35722dbac31290eb415730afd9466aa3c827f221)
-
-[maven-release-plugin] prepare for next development iteration
+- [a1aa2a9f55](https://github.com/dcache/dcache/commit/a1aa2a9f55a81b94e3c69bf351ff4da114c827c8)  [maven-release-plugin] prepare release 3.1.11
+- [ad5be09e65](https://github.com/dcache/dcache/commit/ad5be09e6577f78a586d508228e0a5c86483f79f)  use correct terminology
+- [d5fc3fc153](https://github.com/dcache/dcache/commit/d5fc3fc1539ce13f5d112beb23d79e4fd18481dd)  fixed several typos in the documentation
+- [fa30bd0e02](https://github.com/dcache/dcache/commit/fa30bd0e02bbe7c37c1b3e4e68345dad19aea2c1)  added hint that pnfsmanagers must use the same DB
+- [75413984e0](https://github.com/dcache/dcache/commit/75413984e0e5962d7911fab0fa7e8fcbbba86a01)  srmclient: give version of srmclient
+- [84f55fb998](https://github.com/dcache/dcache/commit/84f55fb9982e6486801b8878af7256f7a2c967ae)  zookeeper: work-around race-condition in zookeeper server shutdown
+- [35722dbac3](https://github.com/dcache/dcache/commit/35722dbac31290eb415730afd9466aa3c827f221)  [maven-release-plugin] prepare for next development iteration
 
 
 
