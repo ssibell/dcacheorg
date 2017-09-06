@@ -23,111 +23,20 @@ Available Packages
 | [dCache 3.0.x]({{site.baseurl}}/docs/releases/) |Feature Release   |  
 
 
-
-
-
-
-
-[dCache 2.16.x]({{site.baseurl}}/docs/releases/)
-
-
-Latest Golden Release: long term support version
-
-
-
-
-
-[dCache 2.15.x]({{site.baseurl}}/docs/releases/)
-
-
-Feature Release
-
-
-
-
-[dCache 2.14.x]({{site.baseurl}}/docs/releases/)
-
-
-Feature Release
-
-
-
-[dCache 2.13.x](/downloads/1.9/index.shtml#server-2.13)
-
-
-Older Golden Release
-
-
-
-
-[dCache 2.10.X](/downloads/1.9/index.shtml#server-2.10)
-
-
-Older Golden Release
-
-
-
-[Unsupported](/downloads/1.9/unsupported)
-
-
-no longer supported releases
-
-
-
-
-[SRM Client](/downloads/1.9/srm/)
-
-
-All SRM client releases
-
-
-
-
-[dCap](/downloads/dcap/)
-
-
-dCache client library for various OS
-
-
-
-
-[PNFS and Tools](/downloads/pnfs/index.shtml)
-
-
-PNFS, Fast PNFS and dump/conversion tool.
-
-
-
-[GUI](/downloads/gui/index.shtml)
-
-
-Graphical Interface
-
-
-
-[EuroGate](/downloads/eurogate/eurogate.shtml)
-
-
-In case you need an HSM for testing 1.8.0 and SRM 2.2
-
-
-
-[dCache Cloud releases](/downloads/1.9/cloud/index.shtml)
-
-
-Releases used for dCache cloud deployment at DESY
-
-
-[XRootD CMS-TFC releases](/downloads/xrootd4j/index.shtml)
-
-
-Releases of the XRootD4J CMS-TFC Plugin
-
-
-[Press Material](/downloads/press/index.shtml)
-
-
-Contains marketing material, logs, etc.
+- [dCache 2.16.x]({{site.baseurl}}/docs/releases/) Latest Golden Release: long term support version
+- [dCache 2.15.x]({{site.baseurl}}/docs/releases/)  Feature Release
+- [dCache 2.14.x]({{site.baseurl}}/docs/releases/)  Feature Release
+- [dCache 2.13.x](/downloads/1.9/index.shtml#server-2.13)  Older Golden Release
+- [dCache 2.10.X](/downloads/1.9/index.shtml#server-2.10)  Older Golden Release
+- [Unsupported](/downloads/1.9/unsupported)  no longer supported releases
+- [SRM Client](/downloads/1.9/srm/)  All SRM client releases
+- [dCap](/downloads/dcap/)  dCache client library for various OS
+- [PNFS and Tools](/downloads/pnfs/index.shtml)  PNFS, Fast PNFS and dump/conversion tool.
+- [GUI](/downloads/gui/index.shtml)  Graphical Interface
+- [EuroGate](/downloads/eurogate/eurogate.shtml)  In case you need an HSM for testing 1.8.0 and SRM 2.2
+- [dCache Cloud releases](/downloads/1.9/cloud/index.shtml)  Releases used for dCache cloud deployment at DESY
+- [XRootD CMS-TFC releases](/downloads/xrootd4j/index.shtml)  Releases of the XRootD4J CMS-TFC Plugin
+- [Press Material](/downloads/press/index.shtml)  Contains marketing material, logs, etc.
 
 
 
