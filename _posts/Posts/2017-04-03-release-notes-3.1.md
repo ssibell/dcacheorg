@@ -46,17 +46,11 @@ The current release fixed the stack-traces on bad client input.
 
 
 - [aa82c54](https://github.com/dcache/dcache/commit/aa82c54ada7f0754786fc16e61edecc87fa15205) [maven-release-plugin] prepare release 3.1.15
-
 - [3dfcc64](https://github.com/dcache/dcache/commit/3dfcc64903ba4af8ca9e28d30a488f6357eab2af) cells: better handling of rogue domains with badly formatted dCache versions
-
 - [0dd102e](https://github.com/dcache/dcache/commit/0dd102efe617e8a6591d16c83d2d28b4caa3a703) configuration: update zookeeper configuration with hints
-
 - [ad3e9b0](https://github.com/dcache/dcache/commit/ad3e9b03c272f41f4b6c25561b2c2f037d2db6c7) pool: fix loading ‘setup’ that requires queues created by ‘pool.queues’
-
 - [ca1667d](https://github.com/dcache/dcache/commit/ca1667d408bde7ce50f5181465839502f1de63ee) webdav: avoid stack-trace on bad user requests
-
 - [ad54a1f](https://github.com/dcache/dcache/commit/ad54a1f0a98da9c2775351ce5b8dd9ef62f9c02a) alarms: guard against NPEs on LogEntry getters
-
 - [265141c](https://github.com/dcache/dcache/commit/265141c39e12dda93e3e4822ee4476d6ae69309d) [maven-release-plugin] prepare for next development iteration
 
 
@@ -82,15 +76,10 @@ The current release fixed regression in third-party copy with no delegation.
 
 
 - [21911f4](https://github.com/dcache/dcache/commit/21911f431841fb0b4d59549af595b2a9145a972d) [maven-release-plugin] prepare release 3.1.14
-
 - [5f4a0b9](https://github.com/dcache/dcache/commit/5f4a0b9cccc2434ef88348c9a1799e7136d2e074) admin: Fix Inconsistent ACL enforcement, RT 9207
-
 - [d1e8a12](https://github.com/dcache/dcache/commit/d1e8a12a2e7f22bf34f1af7268118e559c6732ef) webdav: fix more regressions with CredentialSource.NONE
-
 - [170d278](https://github.com/dcache/dcache/commit/170d278c1164e9d8bc29b224fcaf5c5c2f40906f) pool: fix regression in HTTP third-party transfer with redirection
-
 - [f9d721f](https://github.com/dcache/dcache/commit/f9d721f98165c8a8c790bf9771fc6a37c732b71e) webdav: fix regression in third-party copy with no delegation
-
 - [7d31759](https://github.com/dcache/dcache/commit/7d31759fbadfe9cb784ca183ac16d97a42845e1d) [maven-release-plugin] prepare for next development iteration
 
 
@@ -114,17 +103,11 @@ The current release improved configuration for `srmPing` responses.
 
 
 - [2bd7e5e](https://github.com/dcache/dcache/commit/2bd7e5e8293093a41d3368a78bf1fdb3305c084c) [maven-release-plugin] prepare release 3.1.13
-
 - [9132256](https://github.com/dcache/dcache/commit/913225689a49f093f8d2ccc11914c58572020632) configuration: update description for replicable
-
 - [928749b](https://github.com/dcache/dcache/commit/928749b3611625ced865e089d97c658b96608489) resilience: remove reference to pnfsmanager property
-
 - [9b00497](https://github.com/dcache/dcache/commit/9b004979059e504d98a62e0de392b29aec90af95) srm/srmmanager: fix srmPing confusion
-
 - [0675c6b](https://github.com/dcache/dcache/commit/0675c6bcf0fa46d1e9c4ae340b6d0b6734862bc9) [maven-release-plugin] prepare for next development iteration
-
-[3399e1b](https://github.com/dcache/dcache/commit/3399e1b4511038c9bc4f6f1bdadd6b60b2c135c9) removed the conflict markers
-
+- [3399e1b](https://github.com/dcache/dcache/commit/3399e1b4511038c9bc4f6f1bdadd6b60b2c135c9) removed the conflict markers
 - [17b3f2d](https://github.com/dcache/dcache/commit/17b3f2d5c2fc173d3053425a3f222ba2feaf7492) resilience: make namespace provider properties immutable
 
 
@@ -153,53 +136,18 @@ It upstated as well `srm/manager.properties` documentation to describe the relat
 
 
 
-[760f8ef](https://github.com/dcache/dcache/commit/760f8efdbd4a4f2167cb6270a30632244b625599)
-
-[maven-release-plugin] prepare release 3.1.12
-
-[0f7291d](https://github.com/dcache/dcache/commit/0f7291d493960ec26bb642e2460a2b9f15353c43)
-
-srm/srmmanager: update documentation about root path
-
-[595d260](https://github.com/dcache/dcache/commit/595d2601b29dfd933cae210a87251b0d832f3f40)
-
-ftp: convert timestamps to GMT (to follow RFC 3659)
-
-[3a0f6c0](https://github.com/dcache/dcache/commit/3a0f6c0484fc0a25a8fd2d24cebdab3afe29c1a9)
-
-config: use consistent terminology
-
-[eda1b59](https://github.com/dcache/dcache/commit/eda1b5996834805018a195f388d7be7a4f8f8086)
-
-billing: update documentation to describe CellAddress
-
-[1299362](https://github.com/dcache/dcache/commit/12993622bb8d247f8b792d5966cec346ddcc726b)
-
-srm,srmmanager: add configuration property to allow easy modification of srm root
-
-[1f9600d](https://github.com/dcache/dcache/commit/1f9600deef93c2d0f385b76ae45ca8f4ac5dd220)
-
-logback: make socket appender construction depend on log level
-
-[75c5b3a](https://github.com/dcache/dcache/commit/75c5b3ae5eea49bdf80698930c3f399d01a6682f)
-
-dcache: release dcache-view 1.2.2 for dcache 3.1
-
-[878dc3b](https://github.com/dcache/dcache/commit/878dc3bf911120295194da3f504ebbad8d8a4a83)
-
-config: add obsolete|forbidden annotation for dropped properties
-
-[3867d1f](https://github.com/dcache/dcache/commit/3867d1f1d69f354f8fc1869c2cd97a6c9dfcb3ef)
-
-[maven-release-plugin] prepare for next development iteration
-
-[7f39fab](https://github.com/dcache/dcache/commit/7f39fabd2ac15926725762defaa030aa0afb300d)
-
-config: add obsolete|forbidden annotation for dropped properties
-
-[4f4ed8f](https://github.com/dcache/dcache/commit/4f4ed8f14bcb68d1d4c423ffd91f3d4bb214164f)
-
-pnfsmanager: remove obsolete comments from properties file
+- [760f8ef](https://github.com/dcache/dcache/commit/760f8efdbd4a4f2167cb6270a30632244b625599)  [maven-release-plugin] prepare release 3.1.12
+- [0f7291d](https://github.com/dcache/dcache/commit/0f7291d493960ec26bb642e2460a2b9f15353c43)  srm/srmmanager: update documentation about root path
+- [595d260](https://github.com/dcache/dcache/commit/595d2601b29dfd933cae210a87251b0d832f3f40)  ftp: convert timestamps to GMT (to follow RFC 3659)
+- [3a0f6c0](https://github.com/dcache/dcache/commit/3a0f6c0484fc0a25a8fd2d24cebdab3afe29c1a9)  config: use consistent terminology
+- [eda1b59](https://github.com/dcache/dcache/commit/eda1b5996834805018a195f388d7be7a4f8f8086)  billing: update documentation to describe CellAddress
+- [1299362](https://github.com/dcache/dcache/commit/12993622bb8d247f8b792d5966cec346ddcc726b)  srm,srmmanager: add configuration property to allow easy modification of srm root
+- [1f9600d](https://github.com/dcache/dcache/commit/1f9600deef93c2d0f385b76ae45ca8f4ac5dd220)  logback: make socket appender construction depend on log level
+- [75c5b3a](https://github.com/dcache/dcache/commit/75c5b3ae5eea49bdf80698930c3f399d01a6682f)  dcache: release dcache-view 1.2.2 for dcache 3.1
+- [878dc3b](https://github.com/dcache/dcache/commit/878dc3bf911120295194da3f504ebbad8d8a4a83)  config: add obsolete|forbidden annotation for dropped properties
+- [3867d1f](https://github.com/dcache/dcache/commit/3867d1f1d69f354f8fc1869c2cd97a6c9dfcb3ef)  [maven-release-plugin] prepare for next development iteration
+- [7f39fab](https://github.com/dcache/dcache/commit/7f39fabd2ac15926725762defaa030aa0afb300d)  config: add obsolete|forbidden annotation for dropped properties
+- [4f4ed8f](https://github.com/dcache/dcache/commit/4f4ed8f14bcb68d1d4c423ffd91f3d4bb214164f)  pnfsmanager: remove obsolete comments from properties file
 
 
 
