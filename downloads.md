@@ -4,16 +4,13 @@ title: Downloads
 permalink: /downloads/
 top_graphic: 1
 ---
-
-
- <!-- body part -->
 ## General Remarks 
 
 We allow free public access to some parts of the dCache code. Details are available in [this page]({{site.baseurl}}/docs/source-code/). 
 Feel free to contact us ([support@dCache.org](mailto:support@dcache.org)) if you need assistence.
 
 
-Available Packages
+### Available Packages
 
 |           Package Name           |            Description      | 
 
