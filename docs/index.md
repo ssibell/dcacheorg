@@ -15,7 +15,7 @@ top_graphic: 1
 ## General Documentation
 - <a href="book.shtml">The Book</a> - a general guide for administrators
 - <a href="dcache-whitepaper-light.pdf">dCache, the Overview</a> - an article about dCache
-- <a href="publications.shtml">Publications</a> - slides and information from talks and workshops
+- <a href="publications.html">Publications</a> - slides and information from talks and workshops
                               
 ## Manuals
 - <a href="2011/goettingen/upgradeguide/upgrade-guide.html">The
