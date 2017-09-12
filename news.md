@@ -79,7 +79,7 @@ The 6th dCache workshop</a> which took place at DESY/Zeuthen close to Berlin, Ap
                               report may contain confidential information. (e.g. passwords). Only a very restricted number of people have access to this
                               particular mailing list.
                        
-                     <li>Newletters and <a href="manuals/news/newsletter.html">announcements</a>.
+                     <li>Newletters and <a href="../newsletter.html">announcements</a>.
                      <li>
                         <h8>Chimera</h8>
                         <br />
