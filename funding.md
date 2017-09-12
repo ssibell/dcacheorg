@@ -17,4 +17,4 @@ Since end of 2001 our full production release is in use at an increasing number 
               <a href="https://en.wikipedia.org/wiki/European_Middleware_Initiative"><img src="{{site.baseurl}}/images/emi-blue1.png" alt="EMI" width="240" height="120" style="padding: 10px;"></a>
               <a href="http://www.terascale.de/"><img src="{{site.baseurl}}/images/physicsattheterascale.png" alt="terascale" width="240" height="120" style="padding: 10px;"></a>
               
-            </div>
+         
