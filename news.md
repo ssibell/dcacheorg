@@ -52,7 +52,7 @@ More details available at [11th International dCache Workshop official page](htt
 The 6th dCache workshop</a> which took place at DESY/Zeuthen close to Berlin, April 17-19, 2012 was a great success.</span>
                      <li><span><a href="http://indico.desy.de/conferenceDisplay.py?confId=4019">WLCG Collaboration workshop</a> was organized by dCache.org at DESY in July 11-13, 2011. (<a href="http://podcast.desy.de/?cat=44">Video Recordings</a>)</span>
                      <li><span>EMI 1 (Kebnekaise) released. <a href="http://www.eu-emi.eu/en/emi-1-kebnekaise">Kebnekaise</a></span></li>
-                     <li><span><a href="http://www.dcache.org/manuals/2011/goettingen/">Great success : 5th dCache workshop in G&ouml;ttingen, 16/17 March, 2011</a></span>
+                     <li><span><a href="../docs/goettingen.html">Great success : 5th dCache workshop in G&ouml;ttingen, 16/17 March, 2011</a></span>
                      <li> <span>dCache <a href="articles">Articles</a></span>
                      <li>
                         <span>European Middleware Initiative, EMI started May 2010.</span> <a href="manuals/EMI_FACT-SHEET-1_4.pdf">Factsheet</a>
