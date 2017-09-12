@@ -38,7 +38,7 @@ Guide II</a> - How to get from 1.9.12 to 2.2
                                 is a community supported document; our thanks to those who have contributed.
 - <a href="http://trac.dcache.org/wiki/optToUsr">Migrate from the /opt layout to the FHS compliant layout</a> 
 - <a href="libdcap.shtml">dcap lib client API</a>
-- <a href="dccp.shtml">dccp (dCache copy program)</a>
+- <a href="dccp.html">dccp (dCache copy program)</a>
                              
 ## Experts Stuff
 - <a href="http://trac.dcache.org/wiki">Wiki</a>
