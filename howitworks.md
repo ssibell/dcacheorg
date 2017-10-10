@@ -25,7 +25,7 @@ Jekyll actually only does one of a few things to your files, although it classif
 
 - liquid templating: liquid template parsing is run on the original content of the file, with several variables, like site or page provided as arguments your liquid templates can access. 
 - converting the content: Jekyll asks converters whether they match your file’s extension, e.g. kramdown matches .md, and if so they run against the output from template parsing. Different converters run depending on your file’s extension, e.g. .md extension and the kramdown converter. 
-- layout parsing: The output of conversion is passed as the {{content}} variable to either your default layout, or the layout specified in your file’s yaml frontmatter. The output of the layout is written to a file in your output directory, or omitted. Now I want to walk through an example of Jekyll applying this transformation. Later in Jekyll’s core and Testing a complete build we will look at the general structure Jekyll’s algorithm follows and what sorts of files get which treatment.
+- layout parsing: The output of conversion is passed as the ```content``` variable to either your default layout, or the layout specified in your file’s yaml frontmatter. The output of the layout is written to a file in your output directory, or omitted. Now I want to walk through an example of Jekyll applying this transformation. Later in Jekyll’s core and Testing a complete build we will look at the general structure Jekyll’s algorithm follows and what sorts of files get which treatment.
 
 
 ### Usage
