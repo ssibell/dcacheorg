@@ -7,7 +7,7 @@ top_graphic: 1
 
 
 # Welcome
-This aim of this tutorial is to be a comprehensive guide to Jekyll website. We’ll cover topics such as getting your site up and running, creating and managing your content like posts, downloads, documentations and many more. And customizing the way this site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+This aime of this tutorial is to be a comprehensive guide to Jekyll website. We’ll cover topics such as getting your site up and running, creating and managing your content like posts, downloads, documentations and many more. And customizing the way this site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
 
 # So what is Jekyll?
 
