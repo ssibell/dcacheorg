@@ -2,7 +2,7 @@
 layout: page
 title: Downloads
 permalink: /downloads/
-top_graphic: 1
+top_graphic: 1 
 ---
 ## General Remarks 
 
